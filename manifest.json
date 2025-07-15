@@ -1,0 +1,14 @@
+{
+  "name": "PowerBI Addin",
+  "supportEmail": "soporte@tucorreo.com",
+  "version": "1.0",
+  "items": [
+    {
+      "page": "Dashboard",
+      "title": "Reporte PowerBI",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png",
+      "url": "powerbi.html",
+      "permissions": []
+    }
+  ]
+}
